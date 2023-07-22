@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PlaceNL Userscript (Autoupdater)
+// @name         PlaceJW Userscript (Autoupdater)
 // @namespace    https://github.com/PlaceNL/Userscript
 // @version      0.0.2
 // @description  The easiest way to run our automated placer and keep it up to date, right from your browser
