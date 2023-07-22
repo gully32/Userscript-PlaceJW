@@ -15,7 +15,7 @@
 // @connect      objects.githubusercontent.com
 // ==/UserScript==
 
-const SCRIPT_LOCATION = 'https://github.com/gully32/Userscript-PlaceJW/releases/download/latest/placejw-userscript.user.js';
+const SCRIPT_LOCATION = 'https://github.com/gully32/Userscript-PlaceJW/releases/download/latest/placenl-userscript-autoupdater.user.js';
 const UPDATE_CHECK_INTERVAL = 10 * 60 * 1000;
 
 (function () {
