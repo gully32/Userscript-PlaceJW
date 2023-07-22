@@ -28,5 +28,5 @@ jobs:
           prerelease: true
           title: Latest build
           files: |
-            dist/placejw-userscript.user.js
+            dist/placenl-userscript.user.js
             placejw-userscript-autoupdater.user.js
