@@ -9,7 +9,7 @@
 // @connect      reddit.com
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @updateURL    https://github.com/gully32/Userscript-PlaceJW/releases/download/latest/placenl-userscript-autoupdater.user.js
-// @downloadURL  https://github.com/gully32/Userscript-PlaceJW/releases/download/latest/placenl-userscript-autoupdater.user.js
+// @downloadURL  https://github.com/gully32/Userscript-PlaceJW/releases/download/latest/placenl-userscript.user.js
 // @grant        GM.xmlHttpRequest
 // @connect      github.com
 // @connect      objects.githubusercontent.com
